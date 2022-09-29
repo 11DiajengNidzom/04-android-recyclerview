@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">04 Android RecyclerView</string>
+    <string name="app_name">RecyclerView</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -9,4 +9,27 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="jenis">RedVelvet</string>
+    <string name="warna">Merah</string>
+    \n
+        Dari sudut pandang pertama, red velvet diyakini sudah ada sejak tahun 1800-an. Kala itu resep red velvet sudah dikenal,
+    namun masih merujuk pada jenis kue. Artinya terdapat sebuah kue yang dikenal sebagai kue merah, lalu berganti nama menjadi red velvet karena tekstur lembut dan empuk dari kuenya (velvet).
+    Selanjutnya, red velvet juga dianggap populer sejak Perang Dunia II yaitu sekitar tahun 1940-an. Red velvet dikenal sebagai kue yang populer di Amerika karena menjadi kue yang sering disajikan untuk para tentara perang.
+    Alasan yang menjadikan red velvet disajikan untuk para tentara AS cukup sederhana.
+    </string>
+    <string name="jenis2">Chocolate</string>
+    <string name="warna2">Coklat</string>
+    \n1/2
+        Cake cokelat ini bukan hanya disukai anak-anak tetapi bakal menjadi favorit keluarga.Lapisan kuenya bisa lebih dari 3 dan setelah dilapisi ganache,
+    simpan cake dalam lemari es hingga mudah dipotong dan rasanyapun juga makin mantap.
+    </string>
+    <string name="jenis3">Greentea</string>
+    <string name="warna3">Hijau</string>
+\n3
+        Green tea cake atau kue yang berasal dari olahan green tea saat ini memang banyak penggemarnya. Aroma serta rasa pahit dari green tea yang khas memang membuat green tea cake lebih populer dan disukai daripada beberapa jenis cake lainnya.
+    Selain enak, green tea mempunyai segudang manfaat untuk kesehatan lho! Kandungan antioksidannya yang tinggi sangat bermanfaat untuk mencegah kanker. Selain itu, green tea juga bisa membantumu dalam penyerapan lemak yang ada pada tubuh.
+    Nah, sejumlah manfaat dari green tea tersebut sudah pasti bisa kamu dapatkan di green tea cake.
+</string>
+    <string name="recipe_image_desc">recipe image</string>
 </resources>
